@@ -1,5 +1,7 @@
 ## Fluentd with elasticsearch and kibana 
 
+Reference link: https://coralogix.com/blog/how-to-maximize-logging-performance-with-kafka/
+
 ### Docker-compose.yml
 ```
 version: '3'
